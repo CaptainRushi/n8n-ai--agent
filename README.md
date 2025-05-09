@@ -1,2 +1,4 @@
-# n8n-ai-agent
-The n8n AI Agent is an intelligent automation assistant that integrates artificial intelligence capabilities with the n8n workflow automation platform. This project enables users to create AI-powered workflows, automate complex decision-making processes, and enhance productivity through intelligent automation.
+
+🤖 n8n AI Agent Workflows
+Automate AI-powered tasks with ready-to-use n8n workflows
+This repository contains modular n8n workflows that integrate AI services (OpenAI, Gemini, Hugging Face, etc.) for intelligent automation.
